@@ -1,0 +1,70 @@
+baseurl = "http://alexshook.com"
+title = "Alex Shook"
+languageCode = "en-us"
+theme = "hyde-x"
+
+MetaDataFormat = "toml"
+paginate = 10
+
+
+[author]
+  name = "Alex Shook"
+
+
+[permalinks]
+  # Optional. Change the permalink format for the 'post' content type.
+  # The format shown here is the same one Jekyll/Octopress uses by default.
+  post = "/blog/:title/"
+
+
+[params]
+  # If false display full article contents in blog index.
+  # Otherwise show description and 'read on' link to individual blog post page.
+  # Default (if omitted) is true.
+  truncate = true
+
+  # Hide estimated reading time for posts.
+  # Default (if omitted) is false.
+  hideReadingTime = false
+
+  # Changes sidebar background and link/accent colours.
+  # See below for more colour options.
+  # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+  theme = "theme-base-08"
+
+  # Select a syntax highight.
+  # Check the static/css/highlight directory for options.
+  highlight = "sunburst"
+
+  # Optional additional custom CSS file URL, will override other styles.
+  customCSS = ""
+
+  # Displays under the author name in the sidebar, keep it short.
+  # You can use markdown here.
+  tagline = "I have a Nabaztag and I'm not afraid to use it."
+
+  # Text for the top menu link, which goes the root URL for the site.
+  # Default (if omitted) is "Blog".
+  home = "Blog"
+
+  # Metadata used to drive integrations.
+  googleAnalytics = "Your Google Analytics tracking code"
+  gravatarHash = "MD5 hash of your Gravatar email address"
+
+  # Sidebar social links, these must be full URLs.
+  github = "https://github.com/alexshook"
+  bitbucket = ""
+  stackOverflow = ""
+  linkedin = ""
+  googleplus = ""
+  facebook = ""
+  twitter = "https://twitter.com/alexshook"
+  youtube = ""
+
+  # Other social-like sidebar links
+  rss = true  # switch to true to enable RSS icon link
+
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
