@@ -14,7 +14,7 @@ paginate = 10
 [permalinks]
   # Optional. Change the permalink format for the 'post' content type.
   # The format shown here is the same one Jekyll/Octopress uses by default.
-  post = "/blog/:title/"
+  post = "/:title/"
 
 
 [params]
@@ -30,7 +30,7 @@ paginate = 10
   # Changes sidebar background and link/accent colours.
   # See below for more colour options.
   # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
-  theme = "theme-base-08"
+  # theme = "theme-base-08"
 
   # Select a syntax highight.
   # Check the static/css/highlight directory for options.
@@ -41,15 +41,15 @@ paginate = 10
 
   # Displays under the author name in the sidebar, keep it short.
   # You can use markdown here.
-  tagline = "I have a Nabaztag and I'm not afraid to use it."
+  tagline = "code + thoughts"
 
   # Text for the top menu link, which goes the root URL for the site.
   # Default (if omitted) is "Blog".
   home = "Blog"
 
   # Metadata used to drive integrations.
-  googleAnalytics = "Your Google Analytics tracking code"
-  gravatarHash = "MD5 hash of your Gravatar email address"
+  # googleAnalytics = "Your Google Analytics tracking code"
+  # gravatarHash = "MD5 hash of your Gravatar email address"
 
   # Sidebar social links, these must be full URLs.
   github = "https://github.com/alexshook"

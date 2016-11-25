@@ -3,7 +3,21 @@
   
   <url>
     <loc>http://alexshook.com/</loc>
+    <lastmod>2016-06-11T21:33:57-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/blog/hello-world-1/</loc>
+    <lastmod>2016-06-11T21:33:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://alexshook.com/projects/</loc>
   </url>
   
 </urlset>
