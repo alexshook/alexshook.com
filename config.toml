@@ -51,6 +51,9 @@ paginate = 10
   # googleAnalytics = "Your Google Analytics tracking code"
   # gravatarHash = "MD5 hash of your Gravatar email address"
 
+  # Sidebar nav links
+  about = "/about"
+
   # Sidebar social links, these must be full URLs.
   github = "https://github.com/alexshook"
   bitbucket = ""
