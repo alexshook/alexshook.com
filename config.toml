@@ -53,6 +53,7 @@ paginate = 10
 
   # Sidebar nav links
   about = "/about"
+  projects = "/projects"
 
   # Sidebar social links, these must be full URLs.
   github = "https://github.com/alexshook"
