@@ -9,7 +9,7 @@ I don’t know if it’s all the nostalgia for the 90s going around lately, but 
 
 I had lots of sites, but my main sites were my Xanga and LiveJournal. Those were the ones people actually knew about because everyone had a Xanga or a LiveJournal, or sometimes both like I did. I remember them being like mini-social networks.
 
-It's a little bit harder to remember when I made the first app or app-like thing. I don’t think it got made until 2001 or 2002 because in 2001/2002 I somehow managed to get my own domain name for free. I think I got it by taking a survey about the internet. Can’t remember the name of it though. 
+It's a little bit harder to remember when I made the first app or app-like thing. I don’t think it got made until 2001 or 2002 because in around then I  managed to get my own domain name for free. I think I got it by taking a survey about the internet. Can’t remember the specifics though. 
 
 I had been getting tired of the design constraints of Xanga— there was only so much you could do with it. The thing I made is considered a pretty classic first app these days: a blog app. Thing. App-thing. I say app-thing because it wasn’t exactly an app— it was a tiny bit of PHP with some vanilla JavaScript thrown in to make it easier to us. It had no database and I’m 99% sure it wrote directly to some files on wherever I was hosting it. It had no admin view, but it did have basic auth and wow was that ever unsafe because it sent the password in plaintext. 
 
