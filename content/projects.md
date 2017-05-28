@@ -12,6 +12,11 @@ An experiment with Marionette, CoffeeScript, and the [USGS API](http://earthquak
 
 CoffeeScript | Marionette | jQuery | HTML | Skeleton
 
+[Two APIs, One Form](https://powerful-refuge-9508.herokuapp.com/) · [GitHub](https://github.com/alexshook/pair_project)
+Funny school group project done in an afternoon. Picks a gif and a song on Soundcloud related to the artist you type in (recommendations include Drake and Beyoncé).
+
+Rails 4 | Giphy API
+
 [Photidian](http://photidian.herokuapp.com/) · [GitHub](https://github.com/alexshook/photidian)
 
 The average laptop/desktop owner spends five hours per day in front of a computer screen. Photidian is a visual diary of those hours- take a photo with your webcam every day and document your life in front of the computer.
@@ -26,9 +31,9 @@ Rails 4 | jQuery | jQueryUI | PostgreSQL | Foundation
 
 [Trippin' Dots](http://trippindots.herokuapp.com/) · [GitHub](https://github.com/alexshook/trippindots)
 
-Analyzing songs with the Echo Nest API and displaying the results visually. Built for the [Monthly Music Hackathon](http://monthlymusichackathon.org/).
+Analyzing songs and displaying the results visually. Originally made with the  Echo Nest API, updated to use the Spotify API. Built for the [Monthly Music Hackathon](http://monthlymusichackathon.org/).
 
-Rails 4 | Backbone.js | JavaScript | jQuery | Echo Nest API | PostgreSQL
+Rails 4 | Backbone.js | JavaScript | jQuery | Spotify API | PostgreSQL
 
 ---
 
