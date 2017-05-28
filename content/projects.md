@@ -13,6 +13,7 @@ An experiment with Marionette, CoffeeScript, and the [USGS API](http://earthquak
 CoffeeScript | Marionette | jQuery | HTML | Skeleton
 
 [Two APIs, One Form](https://powerful-refuge-9508.herokuapp.com/) · [GitHub](https://github.com/alexshook/pair_project)
+
 Funny school group project done in an afternoon. Picks a gif and a song on Soundcloud related to the artist you type in (recommendations include Drake and Beyoncé).
 
 Rails 4 | Giphy API
