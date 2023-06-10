@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learn something on Alex Shook</title>
+    <link>http://alexshook.com/categories/learn-something/</link>
+    <description>Recent content in learn something on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2017 22:13:35 -0400</lastBuildDate><atom:link href="http://alexshook.com/categories/learn-something/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Floor is Lava</title>
+      <link>http://alexshook.com/the-floor-is-lava/</link>
+      <pubDate>Thu, 29 Jun 2017 22:13:35 -0400</pubDate>
+      
+      <guid>http://alexshook.com/the-floor-is-lava/</guid>
+      <description>Recently I&amp;rsquo;ve had a bunch of time for side projects so I thought I&amp;rsquo;d take a computer science class. I was looking for a fairly rigorous one and didn&amp;rsquo;t mind picking up some other languages. Harvard&amp;rsquo;s CS50 at edX has great reviews, so that&amp;rsquo;s the one I started.
+Our first assignment was to build something in Scratch, which I have never used before. It was a bit cumbersome because I&amp;rsquo;ve never programmed in a language like Scratch before.</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on Learning Clojure</title>
+      <link>http://alexshook.com/some-thoughts-on-learning-clojure/</link>
+      <pubDate>Thu, 22 Jun 2017 11:39:26 -0400</pubDate>
+      
+      <guid>http://alexshook.com/some-thoughts-on-learning-clojure/</guid>
+      <description>This year, I was supposed to learn Clojure. I told myself that I was going to. I had been planning to pick up another language that is very different from Ruby and round out my skillset a bit.
+Over the past few years a bunch of people have told me that I would probably like Lisp. I’ve also been reading a book in Scheme, and Clojure’s pretty much close enough. A bit more useful for web stuff, too.</description>
+    </item>
+    
+    <item>
+      <title>Learn Ruby the Hard Way Again</title>
+      <link>http://alexshook.com/learn-ruby-the-hard-way-again/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/learn-ruby-the-hard-way-again/</guid>
+      <description>More than a year ago I tweeted (with a broken link to my old Octopress) about going through Learn Ruby the Hard Way again because I never finished it. I went up to #44 and stopped because I have no ideas for games, and #45 is the make a game exercise.
+I started again last fall and am up to #11. At least I&amp;rsquo;ve learned to keep the completed exercises in a GitHub repo so I don&amp;rsquo;t lose them in the depths of my computer.</description>
+    </item>
+    
+  </channel>
+</rss>

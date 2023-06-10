@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs50 on Alex Shook</title>
+    <link>http://alexshook.com/categories/cs50/</link>
+    <description>Recent content in cs50 on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2017 22:13:35 -0400</lastBuildDate><atom:link href="http://alexshook.com/categories/cs50/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Floor is Lava</title>
+      <link>http://alexshook.com/the-floor-is-lava/</link>
+      <pubDate>Thu, 29 Jun 2017 22:13:35 -0400</pubDate>
+      
+      <guid>http://alexshook.com/the-floor-is-lava/</guid>
+      <description>Recently I&amp;rsquo;ve had a bunch of time for side projects so I thought I&amp;rsquo;d take a computer science class. I was looking for a fairly rigorous one and didn&amp;rsquo;t mind picking up some other languages. Harvard&amp;rsquo;s CS50 at edX has great reviews, so that&amp;rsquo;s the one I started.
+Our first assignment was to build something in Scratch, which I have never used before. It was a bit cumbersome because I&amp;rsquo;ve never programmed in a language like Scratch before.</description>
+    </item>
+    
+  </channel>
+</rss>

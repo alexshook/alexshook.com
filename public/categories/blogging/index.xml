@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on Alex Shook</title>
+    <link>http://alexshook.com/categories/blogging/</link>
+    <description>Recent content in blogging on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Nov 2016 22:20:25 -0400</lastBuildDate><atom:link href="http://alexshook.com/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://alexshook.com/hello-world/</link>
+      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/hello-world/</guid>
+      <description>My first code blog was built on Octopress 2. It was a great starter blog, but I&amp;rsquo;ve been wanting to make some changes for a while. I got tired of waiting for Octopress 3, so I&amp;rsquo;m relaunching with Hugo, which looks like it has an active community and some great documentation.
+I had planned on migrating my posts, but decided on a fresh start instead.
+Hello, world.</description>
+    </item>
+    
+  </channel>
+</rss>

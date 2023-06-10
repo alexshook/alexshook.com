@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alex Shook</title>
+    <link>http://alexshook.com/post/</link>
+    <description>Recent content in Posts on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 23:50:24 -0400</lastBuildDate><atom:link href="http://alexshook.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Again</title>
+      <link>http://alexshook.com/hello-again/</link>
+      <pubDate>Fri, 09 Jun 2023 23:50:24 -0400</pubDate>
+      
+      <guid>http://alexshook.com/hello-again/</guid>
+      <description>Tap tap is this thing on?</description>
+    </item>
+    
+    <item>
+      <title>The Floor is Lava</title>
+      <link>http://alexshook.com/the-floor-is-lava/</link>
+      <pubDate>Thu, 29 Jun 2017 22:13:35 -0400</pubDate>
+      
+      <guid>http://alexshook.com/the-floor-is-lava/</guid>
+      <description>Recently I&amp;rsquo;ve had a bunch of time for side projects so I thought I&amp;rsquo;d take a computer science class. I was looking for a fairly rigorous one and didn&amp;rsquo;t mind picking up some other languages. Harvard&amp;rsquo;s CS50 at edX has great reviews, so that&amp;rsquo;s the one I started.
+Our first assignment was to build something in Scratch, which I have never used before. It was a bit cumbersome because I&amp;rsquo;ve never programmed in a language like Scratch before.</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on Learning Clojure</title>
+      <link>http://alexshook.com/some-thoughts-on-learning-clojure/</link>
+      <pubDate>Thu, 22 Jun 2017 11:39:26 -0400</pubDate>
+      
+      <guid>http://alexshook.com/some-thoughts-on-learning-clojure/</guid>
+      <description>This year, I was supposed to learn Clojure. I told myself that I was going to. I had been planning to pick up another language that is very different from Ruby and round out my skillset a bit.
+Over the past few years a bunch of people have told me that I would probably like Lisp. I’ve also been reading a book in Scheme, and Clojure’s pretty much close enough. A bit more useful for web stuff, too.</description>
+    </item>
+    
+    <item>
+      <title>How I Became a Software Developer Part 1</title>
+      <link>http://alexshook.com/how-i-became-a-software-developer-part-1/</link>
+      <pubDate>Tue, 23 May 2017 22:32:14 -0400</pubDate>
+      
+      <guid>http://alexshook.com/how-i-became-a-software-developer-part-1/</guid>
+      <description>I don’t know if it’s all the nostalgia for the 90s going around lately, but I&amp;rsquo;ve had a bunch of conversations with other developers that got me thinking about my early years in web development. Back in 1998 I made tons of random websites with hilarious CSS, absolutely insane JavaScript, and crazy background wallpapers. I made them mostly with Geocities and Angelfire, and they were part of so many web rings.</description>
+    </item>
+    
+    <item>
+      <title>Learn Ruby the Hard Way Again</title>
+      <link>http://alexshook.com/learn-ruby-the-hard-way-again/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/learn-ruby-the-hard-way-again/</guid>
+      <description>More than a year ago I tweeted (with a broken link to my old Octopress) about going through Learn Ruby the Hard Way again because I never finished it. I went up to #44 and stopped because I have no ideas for games, and #45 is the make a game exercise.
+I started again last fall and am up to #11. At least I&amp;rsquo;ve learned to keep the completed exercises in a GitHub repo so I don&amp;rsquo;t lose them in the depths of my computer.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://alexshook.com/hello-world/</link>
+      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/hello-world/</guid>
+      <description>My first code blog was built on Octopress 2. It was a great starter blog, but I&amp;rsquo;ve been wanting to make some changes for a while. I got tired of waiting for Octopress 3, so I&amp;rsquo;m relaunching with Hugo, which looks like it has an active community and some great documentation.
+I had planned on migrating my posts, but decided on a fresh start instead.
+Hello, world.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Alex Shook</title>
+    <link>http://alexshook.com/categories/</link>
+    <description>Recent content in Categories on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2017 22:13:35 -0400</lastBuildDate><atom:link href="http://alexshook.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cs50</title>
+      <link>http://alexshook.com/categories/cs50/</link>
+      <pubDate>Thu, 29 Jun 2017 22:13:35 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/cs50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>http://alexshook.com/categories/fun/</link>
+      <pubDate>Thu, 29 Jun 2017 22:13:35 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learn something</title>
+      <link>http://alexshook.com/categories/learn-something/</link>
+      <pubDate>Thu, 29 Jun 2017 22:13:35 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/learn-something/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clojure</title>
+      <link>http://alexshook.com/categories/clojure/</link>
+      <pubDate>Thu, 22 Jun 2017 11:39:26 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/clojure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how i became a software developer</title>
+      <link>http://alexshook.com/categories/how-i-became-a-software-developer/</link>
+      <pubDate>Tue, 23 May 2017 22:32:14 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/how-i-became-a-software-developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>origin story</title>
+      <link>http://alexshook.com/categories/origin-story/</link>
+      <pubDate>Tue, 23 May 2017 22:32:14 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/origin-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>promises, promises</title>
+      <link>http://alexshook.com/categories/promises-promises/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/categories/promises-promises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>http://alexshook.com/categories/ruby/</link>
+      <pubDate>Wed, 01 Feb 2017 00:27:15 -0500</pubDate>
+      
+      <guid>http://alexshook.com/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogging</title>
+      <link>http://alexshook.com/categories/blogging/</link>
+      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

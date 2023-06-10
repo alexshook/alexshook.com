@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>origin story on Alex Shook</title>
+    <link>http://alexshook.com/categories/origin-story/</link>
+    <description>Recent content in origin story on Alex Shook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2017 22:32:14 -0400</lastBuildDate><atom:link href="http://alexshook.com/categories/origin-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Became a Software Developer Part 1</title>
+      <link>http://alexshook.com/how-i-became-a-software-developer-part-1/</link>
+      <pubDate>Tue, 23 May 2017 22:32:14 -0400</pubDate>
+      
+      <guid>http://alexshook.com/how-i-became-a-software-developer-part-1/</guid>
+      <description>I don’t know if it’s all the nostalgia for the 90s going around lately, but I&amp;rsquo;ve had a bunch of conversations with other developers that got me thinking about my early years in web development. Back in 1998 I made tons of random websites with hilarious CSS, absolutely insane JavaScript, and crazy background wallpapers. I made them mostly with Geocities and Angelfire, and they were part of so many web rings.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://alexshook.com/hello-world/</link>
+      <pubDate>Thu, 24 Nov 2016 22:20:25 -0400</pubDate>
+      
+      <guid>http://alexshook.com/hello-world/</guid>
+      <description>My first code blog was built on Octopress 2. It was a great starter blog, but I&amp;rsquo;ve been wanting to make some changes for a while. I got tired of waiting for Octopress 3, so I&amp;rsquo;m relaunching with Hugo, which looks like it has an active community and some great documentation.
+I had planned on migrating my posts, but decided on a fresh start instead.
+Hello, world.</description>
+    </item>
+    
+  </channel>
+</rss>
