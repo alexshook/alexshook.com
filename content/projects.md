@@ -13,7 +13,7 @@ A game made with Scratch. You play as a dinosaur that must jump from rock to roc
 
 -----
 	
-[Fashion Barbarian](https://alexshook.com/plebs_dept/) · [GitHub API](https://github.com/alexshook/plebs_dept_api)
+[Plebs Dept.](https://alexshook.com/plebs_dept/) · [GitHub API](https://github.com/alexshook/plebs_dept_api)
 
 Tiny Clojure API that only has one endpoint. It returns up to 30 trendy fashion products from one of five randomly selected current trends. The front-end is a separate static site using Masonry. All products are pulled from the ShopStyle API.
 
